@@ -1,0 +1,118 @@
+Dependencies for Project 'LineFollower', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\PROJECT_NOTES.txt)(0x676526D3)()
+F (.\main.c)(0x67848980)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MMD)
+I (ADC_DRIVER.h)(0x67848980)
+I (GPIO_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (SYSTICK_DRIVER.h)(0x675DC419)
+I (MOTOR_DRIVER.h)(0x67848980)
+I (TIMER1_DRIVER.h)(0x67848980)
+I (PID.h)(0x67848980)
+I (OLED DRIVER.h)(0x676FD7E7)
+I (I2C_DRIVER.h)(0x675F0EBF)
+F (.\OLED DRIVER.c)(0x67848AB6)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o "./objects/oled driver.o" -MMD)
+I (OLED DRIVER.h)(0x676FD7E7)
+I (GPIO_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (I2C_DRIVER.h)(0x675F0EBF)
+I (SYSTICK_DRIVER.h)(0x675DC419)
+F (.\OLED DRIVER.h)(0x676FD7E7)()
+F (.\GPIO_DRIVER.c)(0x67848980)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/gpio_driver.o -MMD)
+I (GPIO_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (.\GPIO_DRIVER.h)(0x67848980)()
+F (.\SYSTICK_DRIVER.c)(0x676FD7CD)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/systick_driver.o -MMD)
+I (SYSTICK_DRIVER.h)(0x675DC419)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (.\SYSTICK_DRIVER.h)(0x675DC419)()
+F (.\TIMER1_DRIVER.c)(0x6784B5FF)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/timer1_driver.o -MMD)
+I (TIMER1_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (GPIO_DRIVER.h)(0x67848980)
+F (.\TIMER1_DRIVER.h)(0x67848980)()
+F (.\SYSTEM_CLOCK.c)(0x675DC314)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/system_clock.o -MMD)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (.\SYSTEM_CLOCK.h)(0x675DC352)()
+F (.\I2C_DRIVER.c)(0x67848A90)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/i2c_driver.o -MMD)
+I (I2C_DRIVER.h)(0x675F0EBF)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (GPIO_DRIVER.h)(0x67848980)
+F (.\I2C_DRIVER.h)(0x675F0EBF)()
+F (.\SPI_DRIVER.c)(0x675EF05A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/spi_driver.o -MMD)
+I (SPI_DRIVER.h)(0x675EEF43)
+I (GPIO_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (.\SPI_DRIVER.h)(0x675EEF43)()
+F (.\MOTOR_DRIVER.c)(0x67848A5E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/motor_driver.o -MMD)
+I (MOTOR_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (GPIO_DRIVER.h)(0x67848980)
+F (.\MOTOR_DRIVER.h)(0x67848980)()
+F (.\ADC_DRIVER.c)(0x6784C080)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/adc_driver.o -MMD)
+I (ADC_DRIVER.h)(0x67848980)
+I (GPIO_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (SYSTICK_DRIVER.h)(0x675DC419)
+F (.\ADC_DRIVER.h)(0x67848980)()
+F (.\PID.c)(0x6784C8DB)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/pid.o -MMD)
+I (PID.h)(0x67848980)
+I (MOTOR_DRIVER.h)(0x67848980)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+I (GPIO_DRIVER.h)(0x67848980)
+F (.\PID.h)(0x67848980)()
+F (.\Buzzer.c)(0x6784B5FF)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/buzzer.o -MMD)
+I (Buzzer.h)(0x6784B5FF)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (.\Buzzer.h)(0x6784B5FF)()
+F (D:/keilpacks/ARM/CMSIS-Compiler/2.1.0/source/armcc/retarget_io.c)(0x6645A77C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/retarget_io.o -MMD)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+F (D:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver/GPIO_STM32F10x.c)(0x67696246)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/gpio_stm32f10x.o -MMD)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\RTE_Driver\GPIO_STM32F10x.h)(0x67696246)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)
+F (RTE/Device/STM32F103RB/RTE_Device.h)(0x670A665E)()
+F (RTE/Device/STM32F103RB/startup_stm32f10x_md.s)(0x67761CB4)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103RB/system_stm32f10x.c)(0x676443D0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-ID:/keilpacks/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/Device/Include-ID:/keilpacks/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MMD)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67696246)
+I (RTE\_Target_1\RTE_Components.h)(0x675C258C)
+I (D:\keilpacks\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (D:\keilpacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67696246)

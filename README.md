@@ -16,4 +16,3 @@
  The project report is visible on linkedin 
 [Link](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)   [https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/]
 
-![Image](https://hizliresim.com/mqw4xtu)

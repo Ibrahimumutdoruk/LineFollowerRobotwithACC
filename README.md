@@ -14,5 +14,5 @@
  * Developed using Keil Microvision 5
 ## Report
  The project report is visible on linkedin 
-[Link](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)   [https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/]
+[Link](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)   
 

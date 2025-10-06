@@ -244,15 +244,7 @@ void PID_Reset(void);
 - Adjust sensor thresholds in sensor.h
 - Modify motor speeds in motor.h
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## Support
+## Q&A
 
 For questions or issues, please open an issue on the GitHub repository or contact the project maintainer. The project report is visible on my linkedin profile
 [Link](https://www.linkedin.com/in/ibrahim-umut-doruk-9b1860217/)   .

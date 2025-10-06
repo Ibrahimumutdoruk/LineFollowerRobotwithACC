@@ -244,10 +244,6 @@ void PID_Reset(void);
 - Adjust sensor thresholds in sensor.h
 - Modify motor speeds in motor.h
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Contributing
 
 1. Fork the repository
